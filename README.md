@@ -14,15 +14,15 @@ User Query (natural language)
 ┌─────────────────────────────────────────────────────────────────┐
 │                    LangGraph Workflow                           │
 │                                                                 │
-│  ParsePreferences → AnalyzeZones → ExternalSignals             │
+│  ParsePreferences → AnalyzeZones → ExternalSignals              │
 │        ↓                                                        │
-│  RetrieveProperties → FilterProperties → ScoreProperties       │
+│  RetrieveProperties → FilterProperties → ScoreProperties        │
 │        ↓                                                        │
-│  EvaluateResults ──acceptable──→ FinalRecommendation → END     │
+│  EvaluateResults ──acceptable──→ FinalRecommendation → END      │
 │        │                                                        │
-│        └─not acceptable─→ FailureDiagnosis                     │
-│                                    ↓                           │
-│                           RelaxConstraints ──loop back──┘      │
+│        └─not acceptable─→ FailureDiagnosis                      │
+│                                    ↓                            │
+│                           RelaxConstraints ──loop back──┘       │
 │                           (max 5 iterations)                    │
 └─────────────────────────────────────────────────────────────────┘
         │
