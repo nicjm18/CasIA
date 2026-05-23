@@ -1,0 +1,438 @@
+[
+  {
+    "id": "el_poblado",
+    "name": "El Poblado",
+    "city": "Medellín",
+    "safety_score": 0.93,
+    "transport_score": 0.85,
+    "investment_score": 0.91,
+    "average_price_m2": 8800000,
+    "lifestyle_tags": [
+      "upscale",
+      "nightlife",
+      "restaurants",
+      "expats",
+      "luxury",
+      "shopping",
+      "parks"
+    ],
+    "green_areas_score": 0.78,
+    "latitude": 6.2108,
+    "longitude": -75.5687,
+    "description": "El Poblado is Medellín's most prestigious neighborhood, famous for its vibrant nightlife, gourmet restaurants, and large expatriate community. It offers the highest safety and quality of life scores in the city.",
+    "metro_station": "El Poblado",
+    "distance_to_centro_km": 4.5,
+    "avg_stratum": 5.8,
+    "popular_for": [
+      "families",
+      "expats",
+      "young_professionals",
+      "investors"
+    ],
+    "new_construction_rate": 0.85
+  },
+  {
+    "id": "laureles",
+    "name": "Laureles",
+    "city": "Medellín",
+    "safety_score": 0.88,
+    "transport_score": 0.82,
+    "investment_score": 0.83,
+    "average_price_m2": 6500000,
+    "lifestyle_tags": [
+      "residential",
+      "family",
+      "quiet",
+      "upscale",
+      "sports",
+      "shopping"
+    ],
+    "green_areas_score": 0.72,
+    "latitude": 6.2439,
+    "longitude": -75.5897,
+    "description": "Laureles is a well-established residential neighborhood known for its wide tree-lined streets, sports facilities, and family-friendly atmosphere. It offers excellent connectivity via Metro Line B.",
+    "metro_station": "Estadio",
+    "distance_to_centro_km": 3.2,
+    "avg_stratum": 4.9,
+    "popular_for": [
+      "families",
+      "professionals",
+      "retirees"
+    ],
+    "new_construction_rate": 0.55
+  },
+  {
+    "id": "envigado",
+    "name": "Envigado",
+    "city": "Medellín",
+    "safety_score": 0.89,
+    "transport_score": 0.8,
+    "investment_score": 0.86,
+    "average_price_m2": 5800000,
+    "lifestyle_tags": [
+      "family",
+      "quiet",
+      "suburban",
+      "parks",
+      "schools",
+      "community"
+    ],
+    "green_areas_score": 0.82,
+    "latitude": 6.1716,
+    "longitude": -75.59,
+    "description": "Envigado is a peaceful municipality adjacent to Medellín, renowned for its family-friendly environment, excellent schools, abundant green spaces, and strong sense of community. Offers great investment potential.",
+    "metro_station": "Envigado",
+    "distance_to_centro_km": 7.8,
+    "avg_stratum": 4.5,
+    "popular_for": [
+      "families",
+      "retirees",
+      "long_term_investors"
+    ],
+    "new_construction_rate": 0.7
+  },
+  {
+    "id": "sabaneta",
+    "name": "Sabaneta",
+    "city": "Medellín",
+    "safety_score": 0.87,
+    "transport_score": 0.77,
+    "investment_score": 0.88,
+    "average_price_m2": 5200000,
+    "lifestyle_tags": [
+      "family",
+      "growing",
+      "commercial",
+      "parks",
+      "community",
+      "modern"
+    ],
+    "green_areas_score": 0.76,
+    "latitude": 6.1486,
+    "longitude": -75.6165,
+    "description": "Sabaneta is the fastest-growing municipality in the Aburrá Valley, offering modern infrastructure, excellent commercial zones, and outstanding investment potential. Known for its vibrant commercial center.",
+    "metro_station": "Sabaneta",
+    "distance_to_centro_km": 10.5,
+    "avg_stratum": 4.2,
+    "popular_for": [
+      "families",
+      "investors",
+      "young_professionals"
+    ],
+    "new_construction_rate": 0.9
+  },
+  {
+    "id": "bello",
+    "name": "Bello",
+    "city": "Medellín",
+    "safety_score": 0.71,
+    "transport_score": 0.78,
+    "investment_score": 0.7,
+    "average_price_m2": 3100000,
+    "lifestyle_tags": [
+      "working_class",
+      "affordable",
+      "industrial",
+      "community",
+      "large"
+    ],
+    "green_areas_score": 0.54,
+    "latitude": 6.3358,
+    "longitude": -75.5589,
+    "description": "Bello is a large northern municipality with excellent Metro connectivity. It offers affordable housing options and is undergoing significant urban renewal. Popular among working-class families seeking metro access.",
+    "metro_station": "Bello",
+    "distance_to_centro_km": 8.2,
+    "avg_stratum": 2.5,
+    "popular_for": [
+      "working_class",
+      "budget_buyers"
+    ],
+    "new_construction_rate": 0.4
+  },
+  {
+    "id": "itagui",
+    "name": "Itagüí",
+    "city": "Medellín",
+    "safety_score": 0.73,
+    "transport_score": 0.75,
+    "investment_score": 0.73,
+    "average_price_m2": 3400000,
+    "lifestyle_tags": [
+      "industrial",
+      "affordable",
+      "commercial",
+      "working_class"
+    ],
+    "green_areas_score": 0.48,
+    "latitude": 6.1849,
+    "longitude": -75.5994,
+    "description": "Itagüí is an industrial municipality south of Medellín with affordable housing and good commercial infrastructure. It connects to Medellín via Metro Line A and offers budget-friendly options.",
+    "metro_station": "Itagüí",
+    "distance_to_centro_km": 6.5,
+    "avg_stratum": 2.8,
+    "popular_for": [
+      "budget_buyers",
+      "workers"
+    ],
+    "new_construction_rate": 0.35
+  },
+  {
+    "id": "robledo",
+    "name": "Robledo",
+    "city": "Medellín",
+    "safety_score": 0.74,
+    "transport_score": 0.7,
+    "investment_score": 0.68,
+    "average_price_m2": 3600000,
+    "lifestyle_tags": [
+      "middle_class",
+      "residential",
+      "hilly",
+      "community",
+      "traditional"
+    ],
+    "green_areas_score": 0.65,
+    "latitude": 6.2825,
+    "longitude": -75.5893,
+    "description": "Robledo is a traditional middle-class neighborhood in western Medellín, known for its hilly terrain, strong community ties, and affordable residential options. Connected via Metro Cable.",
+    "metro_station": "Universidad",
+    "distance_to_centro_km": 3.8,
+    "avg_stratum": 3.1,
+    "popular_for": [
+      "families",
+      "students",
+      "middle_class"
+    ],
+    "new_construction_rate": 0.3
+  },
+  {
+    "id": "belen",
+    "name": "Belén",
+    "city": "Medellín",
+    "safety_score": 0.79,
+    "transport_score": 0.73,
+    "investment_score": 0.75,
+    "average_price_m2": 4200000,
+    "lifestyle_tags": [
+      "residential",
+      "family",
+      "parks",
+      "shopping",
+      "middle_class"
+    ],
+    "green_areas_score": 0.68,
+    "latitude": 6.2268,
+    "longitude": -75.6041,
+    "description": "Belén is a large western residential sector of Medellín, popular for its parks, shopping centers, and family-friendly environment. It offers good connectivity to the city center.",
+    "metro_station": "Aguacatala",
+    "distance_to_centro_km": 4.0,
+    "avg_stratum": 3.8,
+    "popular_for": [
+      "families",
+      "middle_class"
+    ],
+    "new_construction_rate": 0.5
+  },
+  {
+    "id": "castilla",
+    "name": "Castilla",
+    "city": "Medellín",
+    "safety_score": 0.69,
+    "transport_score": 0.76,
+    "investment_score": 0.65,
+    "average_price_m2": 2900000,
+    "lifestyle_tags": [
+      "working_class",
+      "affordable",
+      "industrial",
+      "northern"
+    ],
+    "green_areas_score": 0.5,
+    "latitude": 6.2983,
+    "longitude": -75.5632,
+    "description": "Castilla is a northern working-class neighborhood with excellent Metro access and affordable housing. It's undergoing urban improvement initiatives that are gradually raising property values.",
+    "metro_station": "Acevedo",
+    "distance_to_centro_km": 5.5,
+    "avg_stratum": 2.3,
+    "popular_for": [
+      "budget_buyers",
+      "workers"
+    ],
+    "new_construction_rate": 0.25
+  },
+  {
+    "id": "floresta",
+    "name": "La Floresta",
+    "city": "Medellín",
+    "safety_score": 0.81,
+    "transport_score": 0.78,
+    "investment_score": 0.79,
+    "average_price_m2": 4800000,
+    "lifestyle_tags": [
+      "upscale",
+      "residential",
+      "quiet",
+      "family",
+      "modern"
+    ],
+    "green_areas_score": 0.7,
+    "latitude": 6.251,
+    "longitude": -75.592,
+    "description": "La Floresta is an upscale residential neighborhood in western Medellín, known for its modern constructions, quiet streets, and proximity to Laureles. Excellent for families seeking a premium but more affordable alternative to El Poblado.",
+    "metro_station": "Floresta",
+    "distance_to_centro_km": 3.0,
+    "avg_stratum": 4.4,
+    "popular_for": [
+      "families",
+      "professionals",
+      "investors"
+    ],
+    "new_construction_rate": 0.6
+  },
+  {
+    "id": "la_america",
+    "name": "La América",
+    "city": "Medellín",
+    "safety_score": 0.76,
+    "transport_score": 0.8,
+    "investment_score": 0.72,
+    "average_price_m2": 3900000,
+    "lifestyle_tags": [
+      "residential",
+      "central",
+      "commercial",
+      "middle_class",
+      "accessible"
+    ],
+    "green_areas_score": 0.58,
+    "latitude": 6.2449,
+    "longitude": -75.5821,
+    "description": "La América is a centrally located residential neighborhood with excellent transport connections. It offers a balanced lifestyle with access to commercial areas and parks at mid-range prices.",
+    "metro_station": "La América",
+    "distance_to_centro_km": 2.5,
+    "avg_stratum": 3.5,
+    "popular_for": [
+      "professionals",
+      "middle_class",
+      "renters"
+    ],
+    "new_construction_rate": 0.42
+  },
+  {
+    "id": "buenos_aires",
+    "name": "Buenos Aires",
+    "city": "Medellín",
+    "safety_score": 0.72,
+    "transport_score": 0.74,
+    "investment_score": 0.69,
+    "average_price_m2": 3300000,
+    "lifestyle_tags": [
+      "historic",
+      "central",
+      "traditional",
+      "community",
+      "hills"
+    ],
+    "green_areas_score": 0.61,
+    "latitude": 6.2333,
+    "longitude": -75.557,
+    "description": "Buenos Aires is a traditional hillside neighborhood east of the city center, offering historic charm and stunning views of Medellín. It's connected via Metro Cable and is undergoing gentrification.",
+    "metro_station": "San Antonio (cable)",
+    "distance_to_centro_km": 2.2,
+    "avg_stratum": 3.0,
+    "popular_for": [
+      "artists",
+      "young_professionals",
+      "budget_buyers"
+    ],
+    "new_construction_rate": 0.35
+  },
+  {
+    "id": "manrique",
+    "name": "Manrique",
+    "city": "Medellín",
+    "safety_score": 0.66,
+    "transport_score": 0.72,
+    "investment_score": 0.62,
+    "average_price_m2": 2600000,
+    "lifestyle_tags": [
+      "working_class",
+      "traditional",
+      "community",
+      "affordable",
+      "eastern"
+    ],
+    "green_areas_score": 0.55,
+    "latitude": 6.2642,
+    "longitude": -75.5536,
+    "description": "Manrique is a large northeastern neighborhood with a strong working-class community. While safety scores are moderate, it offers very affordable housing and is served by Metro and Cable Car systems.",
+    "metro_station": "Acevedo / Cable",
+    "distance_to_centro_km": 4.8,
+    "avg_stratum": 2.2,
+    "popular_for": [
+      "budget_buyers",
+      "renters"
+    ],
+    "new_construction_rate": 0.2
+  },
+  {
+    "id": "san_antonio_prado",
+    "name": "San Antonio de Prado",
+    "city": "Medellín",
+    "safety_score": 0.8,
+    "transport_score": 0.62,
+    "investment_score": 0.77,
+    "average_price_m2": 3700000,
+    "lifestyle_tags": [
+      "suburban",
+      "family",
+      "quiet",
+      "nature",
+      "affordable",
+      "growing"
+    ],
+    "green_areas_score": 0.88,
+    "latitude": 6.1472,
+    "longitude": -75.6502,
+    "description": "San Antonio de Prado is a suburban community southwest of Medellín, offering a peaceful semi-rural environment with excellent green spaces. Popular for families seeking tranquility with growing investment potential.",
+    "metro_station": "None (bus connection)",
+    "distance_to_centro_km": 12.0,
+    "avg_stratum": 3.2,
+    "popular_for": [
+      "families",
+      "retirees",
+      "nature_lovers"
+    ],
+    "new_construction_rate": 0.65
+  },
+  {
+    "id": "el_estadio",
+    "name": "El Estadio",
+    "city": "Medellín",
+    "safety_score": 0.82,
+    "transport_score": 0.86,
+    "investment_score": 0.8,
+    "average_price_m2": 5400000,
+    "lifestyle_tags": [
+      "sports",
+      "nightlife",
+      "restaurants",
+      "metro",
+      "young",
+      "vibrant"
+    ],
+    "green_areas_score": 0.65,
+    "latitude": 6.2528,
+    "longitude": -75.582,
+    "description": "El Estadio sector, surrounding the Atanasio Girardot Sports Complex, is a vibrant neighborhood with excellent Metro Line B connectivity. Popular among young professionals for its nightlife, restaurants, and sports culture.",
+    "metro_station": "Estadio",
+    "distance_to_centro_km": 2.8,
+    "avg_stratum": 4.2,
+    "popular_for": [
+      "young_professionals",
+      "sports_fans",
+      "students"
+    ],
+    "new_construction_rate": 0.68
+  }
+]
