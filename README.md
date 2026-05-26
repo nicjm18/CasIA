@@ -345,8 +345,6 @@ Iteración 4: 7 props, avg=0.77 → ACEPTADO ✓
 
 ### Limitaciones identificadas
 
-**Dataset sintético:** Las 300 propiedades fueron generadas con datos realistas pero ficticios. En producción, el sistema requeriría integración con APIs de portales inmobiliarios colombianos (Finca Raíz, MetroCuadrado) y actualización periódica del dataset.
-
 **Embeddings desconectados del dominio:** El modelo `all-MiniLM-L6-v2` es de propósito general. Un modelo fine-tuneado en descripciones inmobiliarias colombianas produciría mejores similitudes semánticas.
 
 **Scoring sin retroalimentación:** El sistema no aprende de las decisiones del usuario. Integrar un mecanismo de feedback (propiedades marcadas como "interesantes") permitiría personalizar los pesos del scoring con el tiempo.
