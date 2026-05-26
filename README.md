@@ -5,6 +5,22 @@ Built with **LangGraph**, **FastAPI**, **GPT-4o-mini** (via OpenRouter), and **N
 
 ---
 
+## Screenshots
+
+### Interfaz de búsqueda
+![Búsqueda en lenguaje natural con ejemplos predefinidos](docs/screenshots/home.png)
+
+### Recomendaciones con scores de compatibilidad
+![Tarjetas de recomendación con match score, explicación IA y análisis de scores](docs/screenshots/results.png)
+
+### Análisis detallado de compatibilidad
+![Barras de compatibilidad expandidas mostrando Presupuesto, Ubicación, Área y Transporte](docs/screenshots/cards.png)
+
+### Análisis de vecindarios y decisiones del grafo
+![Tab de análisis con historial de decisiones LangGraph y vecindarios seleccionados](docs/screenshots/analysis.png)
+
+---
+
 ## Architecture Overview
 
 ```
