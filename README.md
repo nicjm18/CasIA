@@ -1,4 +1,4 @@
-# CasaIA — Intelligent Housing Recommendation System
+# CasaIA — Intelligent Housing Recommendation System - Nicolás Jaramillo
 
 A full-stack AI-powered housing recommendation system for Medellín, Colombia.
 Built with **LangGraph**, **FastAPI**, **GPT-4o-mini** (via OpenRouter), and **Next.js**.
