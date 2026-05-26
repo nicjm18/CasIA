@@ -7,9 +7,9 @@ import type { SearchStatus } from "@/lib/types";
 
 const EXAMPLE_QUERIES = [
   "Necesito un apartamento familiar en Medellín por menos de 450 millones, cerca al metro, zona segura y buen potencial de inversión.",
-  "Busco una casa en Envigado o Sabaneta para vivir con mascotas, máximo 600 millones, 3 habitaciones.",
+  "Busco una casa en Envigado o Sabaneta para vivir con mascotas, máximo 600 millones, 2 habitaciones.",
   "Quiero un apartaestudio moderno en El Poblado o Laureles para invertir, buena valorización, cerca de restaurantes.",
-  "Necesito apartamento de 2 habitaciones en zona segura de Medellín, máximo 350 millones, que admita mascotas.",
+  "Necesito apartamento de 3 habitaciones en zona segura de Medellín, máximo 350 millones, que admita mascotas.",
 ];
 
 interface SearchInterfaceProps {
@@ -32,7 +32,7 @@ const STAGE_PROGRESS: Record<SearchStatus, number> = {
   idle: 0,
   parsing: 15,
   analyzing: 30,
-  retrieving: 50,
+  retrieving: 55,
   scoring: 70,
   evaluating: 85,
   complete: 100,
